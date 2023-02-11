@@ -13,3 +13,4 @@ ls
 ```
 
 <img src="https://raw.githubusercontent.com/issamiso/Facebook-Guess/main/image/image1.png">
+<img src="https://raw.githubusercontent.com/issamiso/Facebook-Guess/main/image/image2.png">
