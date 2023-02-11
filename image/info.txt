@@ -1,0 +1,2 @@
+python3 Good-list.py # List password
+python3 Facebook-Guess.py # Start Guess
